@@ -1,0 +1,10 @@
+* cl-postgres-datetime
+
+Date/time integration for cl-postgres that uses LOCAL-TIME for types that use time zones and SIMPLE-DATE for those that don't
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/chaitanyagupta/cl-postgres-datetime.git   |
+| commit  | f8d2b05  |
+| systems | cl-postgres-datetime |
+|---------+-------------------------------------------|
+
